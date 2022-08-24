@@ -4,6 +4,7 @@ Frontend- Bootstrap5
 Backend- Laravel9
 
 admin portal
+
 password: getHacking
 username: admin@mail.com
 
